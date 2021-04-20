@@ -3,7 +3,7 @@
 # Contributor: Kristof JOZSA <kristof.jozsa@gmail.com>
 
 pkgname=visualvm
-pkgver=2.0.6
+pkgver=2.0.7
 _shortver=${pkgver//\./}
 pkgrel=1
 pkgdesc='Visual tool integrating several commandline JDK tools and lightweight profiling capabilities'
@@ -14,7 +14,7 @@ depends=('java-environment')
 source=(https://github.com/visualvm/visualvm.src/releases/download/${pkgver}/${pkgname}_${_shortver}.zip
         visualvm.desktop
         icon.png)
-sha256sums=('ba1394b2ce542cb51f66cf694d29a33b009d28a85c4320e2c6561e48d306d78d'
+sha256sums=('7247bb703483f21a1dbe0ff045553b0234a1e94cc1136ab2a0ea88a1478de4e8'
             'e820807e8d78446cf156a3947d97856e24865bb0d8c957e9ce2fed309c737441'
             '452fbd85c968ec7176c5894bc4106b7e25310314d44278d807510675b6a5c864')
 
