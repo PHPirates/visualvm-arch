@@ -1,3 +1,5 @@
+[Edit nov 2021] The version in AUR is updated.
+
 At the moment of writing, the visualvm package version in Arch is 1.4.4, the one in this repo at least 2.1, but the package maintainers do not respond to requests to update.
 
 ```
