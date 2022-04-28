@@ -13,3 +13,6 @@ makepkg -si
 * Update the version in PKGBUILD, say 2.1
 * `wget https://github.com/visualvm/visualvm.src/releases/download/2.1/visualvm_21.zip`
 * `sha256sum visualvm_21.zip` and update the first checksum in PKGBUILD
+
+
+If starting the application does not work, try starting it via the command line.
